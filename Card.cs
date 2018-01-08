@@ -20,4 +20,4 @@ namespace Game24
             return $"{StringVal} of {Suit}";
         }
     }
-}
+}3
